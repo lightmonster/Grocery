@@ -1,7 +1,7 @@
 # Grocery
 Codes that just for fun. (aka. literally USELESS code)
 
-### Good No.1
+### Good No.1 SortChoosenPic.py
 - Input: Digits or sentences that sperate by spaces.
 - output: The most frequent 8 numbers.
 - Use: For Champaign photography to choose photos.
