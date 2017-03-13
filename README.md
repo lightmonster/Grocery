@@ -7,3 +7,5 @@ Codes that just for fun. (aka. literally USELESS codes)
 - Use: For Champaign photography to choose photos.
 - Pros: Use map organize and sort user's input
 - Cons: I believe using excel is much faster than using this.
+- Use:
+  `python SortChoosenPic.py`
